@@ -1,0 +1,75 @@
+.poo{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    position: relative;
+    
+}
+.noo {
+    color: white;
+    background-color: rgb(173 216 230  /.5);
+    padding: 10px;
+    border-radius: 5px;
+   /* width: fit-content;*/
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+}
+img{
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    justify-content: center;
+    
+}.lala{
+    display: flex;
+    gap: 15px;
+    margin-bottom: 30px;
+    
+}
+.aaa{
+    width: calc((100% 3*15px)/8);
+}
+h3{
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+}
+.one{
+    color: grey;
+}
+h4{
+    color: black;
+    font-size: 24px;
+    margin-top: 10px;
+}
+.baba{
+    font-size: 15px;
+    margin-top: 5px;
+}
+.nana{
+    display: flex;
+    gap: 15px;
+}
+.aaa{
+    width: calc((100% 3*15px)/4);
+}
+h3{
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+}
+.one{
+    color: grey;
+}
+h4{
+    color: black;
+    font-size: 24px;
+
+}
+.baba{
+    font-size: 15px;
+}
